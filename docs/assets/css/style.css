@@ -380,6 +380,7 @@ button {
     font-weight: normal;
     padding: 0px 0px;
     text-align: justify;
+    line-height: 120%;
 }
 .corporate_text {
     margin-top: 10px;    
