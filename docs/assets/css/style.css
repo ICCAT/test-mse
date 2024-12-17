@@ -377,6 +377,7 @@ button {
     text-align: justify;
 }
 .corporate_text {
+    margin-top: 10px;    
     width: 100%;
     float: left;
     color: #001431;
