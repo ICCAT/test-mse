@@ -376,17 +376,6 @@ button {
     padding: 0px 0px;
     text-align: justify;
 }
-.corporate_text0 {
-    width: 100%;
-    float: left;
-    color: #001431;
-    font-size: 30px;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
-    padding: 20px 0px;
-    overflow-wrap: break-word;
-}
 .corporate_text {
     width: 100%;
     float: left;
@@ -448,9 +437,7 @@ p.chunks_text {
 .service_box:hover .corporate_text {
     color: #e73232;
 }
-.service_box:hover .corporate_text0 {
-    color: #e73232;
-}
+
 
 .service_box:hover .readmore_button a {
     background-color: #e73232;
@@ -458,9 +445,6 @@ p.chunks_text {
 }
 
 .service_box.active .corporate_text {
-    color: #e73232;
-}
-.service_box.active .corporate_text0 {
     color: #e73232;
 }
 
