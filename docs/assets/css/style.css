@@ -452,7 +452,7 @@ p.chunks_text {
 }
 
 .service_box:hover .house_icon .image_1 {
-    display: none;
+    display: block;
 }
 
 .service_box:hover .corporate_text {
