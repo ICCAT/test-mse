@@ -384,7 +384,7 @@ button {
     font-size: 24px;
     text-transform: none;
     font-weight: normal;
-    padding: 20px 0px;
+    padding: 0px 0px;
     text-align: justify;
 }
 .corporate_text2 {
@@ -394,7 +394,8 @@ button {
     font-size: 24px;
     text-transform: none;
     font-weight: normal;
-    padding: 20px 0px;
+    padding: 0px 0px;
+    text-align: justify;
 }
 
 p.chunks_text {
@@ -466,7 +467,7 @@ p.chunks_text {
 .studies_taital2 {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
     text-align: center;
     font-weight: bold;
