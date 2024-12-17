@@ -407,17 +407,7 @@ button {
     padding: 0px 0px;
 
 }
-.mo_text {
-    width: 100%;
-    float: left;
-    color: #001431;
-    font-size: 30px;
-    text-align: center;
-    text-transform: normal;
-    font-weight: bold;
-    padding: 00px 0px;
-    overflow-wrap: break-word;
-}
+
 p.chunks_text {
     width: 80%;
     float: left;
@@ -452,7 +442,7 @@ p.chunks_text {
 }
 
 .service_box:hover .house_icon .image_1 {
-    display: block;
+    display: none;
 }
 
 .service_box:hover .corporate_text {
