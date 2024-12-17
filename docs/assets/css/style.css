@@ -389,7 +389,7 @@ button {
 }
 .corporate_text {
     width: 100%;
-    float: left;
+
     color: #001431;
     font-size: 25px;
     text-transform: none;
@@ -399,7 +399,7 @@ button {
 }
 .corporate_text2 {
     width: 100%;
-    float: left;
+
     color: #ffffff;
     font-size: 25px;
     text-transform: none;
