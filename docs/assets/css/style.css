@@ -204,7 +204,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 100px;
+    padding-top: 0px;
     padding-bottom: 0px;
 }
 
@@ -351,8 +351,9 @@ button {
     float: left;
     background-color: #f8f2e2;
     padding: 90px 0px;
-    margin-top: 40px;
+    margin-top: 0px;
 }
+
 .intro_section {
     width: 100%;
     float: left;
@@ -454,7 +455,7 @@ p.chunks_text {
 .studies_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 30px;
     color: #001431;
     text-align: center;
     font-weight: bold;
