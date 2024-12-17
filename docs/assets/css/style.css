@@ -448,6 +448,9 @@ p.chunks_text {
 .service_box:hover .corporate_text {
     color: #e73232;
 }
+.service_box:hover .corporate_text0 {
+    color: #e73232;
+}
 
 .service_box:hover .readmore_button a {
     background-color: #e73232;
@@ -455,6 +458,9 @@ p.chunks_text {
 }
 
 .service_box.active .corporate_text {
+    color: #e73232;
+}
+.service_box.active .corporate_text0 {
     color: #e73232;
 }
 
