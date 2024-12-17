@@ -263,7 +263,7 @@ button {
 
 .banner_taital {
     width: 90%;
-    font-size: 60px;
+    font-size: 50px;
     color: #fefefd;
     text-transform: uppercase;
     font-weight: bold;
@@ -370,7 +370,7 @@ button {
     width: 100%;
     float: left;
     color: #001431;
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
@@ -381,7 +381,7 @@ button {
     width: 100%;
     float: left;
     color: #001431;
-    font-size: 24px;
+    font-size: 20px;
     text-transform: none;
     font-weight: normal;
     padding: 0px 0px;
@@ -391,7 +391,7 @@ button {
     width: 100%;
     float: left;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 20px;
     text-transform: none;
     font-weight: normal;
     padding: 0px 0px;
@@ -409,7 +409,7 @@ p.chunks_text {
 .readmore_button {
     width: 160px;
     float: left;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .readmore_button a {
@@ -461,18 +461,18 @@ p.chunks_text {
     text-align: center;
     font-weight: bold;
     text-transform: uppercase;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 .studies_taital2 {
     width: 100%;
     float: left;
-    font-size: 30px;
+    font-size: 25px;
     color: #ffffff;
     text-align: center;
-    font-weight: bold;
+    font-weight: normal;
     text-transform: uppercase;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 /* services section end */
@@ -590,7 +590,7 @@ p.chunks_text {
 .OM_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #ffffff;
     text-align: left;
     margin-left: 0px;
