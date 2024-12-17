@@ -212,6 +212,10 @@ button {
     padding: 0px;
 }
 
+.hr.new5 {
+  border: 10px solid darkblue;
+  border-radius: 5px;
+}
 
 /* header section start */
 
