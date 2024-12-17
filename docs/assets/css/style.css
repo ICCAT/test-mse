@@ -366,6 +366,16 @@ button {
     padding: 90px 0px;
     margin-top: 0px;
 }
+.intro_text {
+    width: 100%;
+    float: left;
+    color: #001431;
+    font-size: 25px;
+    text-transform: none;
+    font-weight: normal;
+    padding: 0px 0px;
+    text-align: justify;
+}
 .corporate_text0 {
     width: 100%;
     float: left;
@@ -385,7 +395,7 @@ button {
     text-transform: none;
     font-weight: normal;
     padding: 0px 0px;
-    text-align: justify;
+    text-align: center;
 }
 .corporate_text2 {
     width: 100%;
@@ -395,7 +405,7 @@ button {
     text-transform: none;
     font-weight: normal;
     padding: 0px 0px;
-    text-align: justify;
+    text-align: center;
 }
 
 p.chunks_text {
