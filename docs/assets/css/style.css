@@ -350,7 +350,7 @@ button {
     float: left;
     background-color: #f8f2e2;
     padding: 90px 0px;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 .intro_section {
     width: 100%;
@@ -383,6 +383,7 @@ button {
     text-transform: none;
     font-weight: normal;
     padding: 20px 0px;
+    text-align: justify;
 }
 .corporate_text2 {
     width: 100%;
