@@ -20,7 +20,7 @@
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
 * {
-    box-sizing: border-box !important;
+    box-sizing: content-box;
     transition: ease all 0.5s;
     margin: 0; padding: 0;
 }
