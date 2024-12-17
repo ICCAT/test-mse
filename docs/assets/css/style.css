@@ -407,7 +407,17 @@ button {
     padding: 0px 0px;
 
 }
+.mo_text {
+    width: 100%;
 
+    color: #001431;
+    font-size: 25px;
+    text-align: center;
+    text-transform: normal;
+    font-weight: bold;
+    padding: 00px 0px;
+    overflow-wrap: break-word;
+}
 p.chunks_text {
     width: 80%;
     float: left;
