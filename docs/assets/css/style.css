@@ -5,17 +5,13 @@
 
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
-@import url(animate.min.css);
-@import url(normalize.css);
-@import url(icomoon.css);
-@import url(css/font-awesome.min.css);
-@import url(meanmenu.css);
-@import url(owl.carousel.min.css);
-@import url(swiper.min.css);
-@import url(slick.css);
-@import url(jquery.fancybox.min.css);
-@import url(jquery-ui.css);
-@import url(nice-select.css);
+
+@import url(assets/css/normalize.css);
+@import url(assets/css/font-awesome.min.css);
+
+@import url(assets/css/fjquery.fancybox.min.css);
+@import url(assets/css/fjquery-ui.css);
+@import url(assets/css/fnice-select.css);
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
@@ -149,10 +145,6 @@ img {
     height: auto;
 }
 
-hr.new5 {
-  border: 10px solid darkblue;
-  border-radius: 5px;
-}
 
  :focus {
     outline: 0;
@@ -181,10 +173,6 @@ hr.new5 {
 .form-control:focus {
     border-color: #ffffff !important;
     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
-}
-
-.navbar-form input {
-    border: none !important;
 }
 
 .badge {
