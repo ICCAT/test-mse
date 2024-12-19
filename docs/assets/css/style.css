@@ -45,6 +45,11 @@ a {
     transition: all .3s ease-in-out;
 }
 
+/* visited link */
+a:visited {
+  color: red;
+}
+
 h1,
 h2,
 h3,
