@@ -211,7 +211,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #001431;
+    background: linear-gradient(90deg, #001431 71%, #f8f2e2 71%);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
